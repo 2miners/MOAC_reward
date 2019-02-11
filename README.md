@@ -4,4 +4,4 @@ https://2miners.com/
 Convert to MOAC: https://etherconverter.online/<br>
 
 # When I'll get my compensation?
-_All payouts will be executed on the 02.02.2019 - 03.02.2019._
+_All payouts were successfully executed on the 3th of February._ 
